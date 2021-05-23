@@ -121,7 +121,7 @@ this means your database is connected and your backend is ready.</ol>
 
 <h3><b>Made with love from</h3></b>
 <br>
-<a href= "https://github.com/"> Anchal Jain </a><br>
+<a href= "https://github.com/anchaljain007/"> Anchal Jain </a><br>
 <a href= "https://github.com/anshnt/"> Ansh Jain </a><br>
 <a href= "https://github.com/JigarJoshi04/"> Jigar Joshi </a>
 
